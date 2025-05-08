@@ -74,3 +74,9 @@ This project is a Python-based tool for extracting features from vibration signa
 ## Contact
 
 If you have any questions, please contact the project maintainer.
+
+---
+
+## Author
+
+Lin Hung Chuan
